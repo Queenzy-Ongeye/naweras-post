@@ -1,4 +1,4 @@
-package dev.queen.nawerasposts
+package dev.nawera.nawerasposts
 
 data class Post(
     var userId: Int,
